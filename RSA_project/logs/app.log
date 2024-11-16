@@ -1,0 +1,67 @@
+2024-11-16 12:22:47 [main] INFO  RSAFileEncryption - Chiavi generate con successo.
+2024-11-16 12:22:47 [main] INFO  RSAFileEncryption - Cifratura del file: fileDaCriptare.txt
+2024-11-16 12:22:47 [main] ERROR RSAFileEncryption - Si è verificato un errore: 
+java.nio.file.NoSuchFileException: fileDaCriptare.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:380) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:432) ~[?:?]
+	at java.nio.file.Files.readAllBytes(Files.java:3288) ~[?:?]
+	at RSAFileEncryption.encryptFile(RSAFileEncryption.java:53) ~[classes/:?]
+	at RSAFileEncryption.main(RSAFileEncryption.java:82) [classes/:?]
+2024-11-16 12:27:04 [main] INFO  RSAFileEncryption - Chiavi generate con successo.
+2024-11-16 12:27:04 [main] INFO  RSAFileEncryption - Cifratura del file: fileDaCriptare.txt
+2024-11-16 12:27:04 [main] ERROR RSAFileEncryption - Si è verificato un errore: 
+java.nio.file.NoSuchFileException: fileDaCriptare.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:380) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:432) ~[?:?]
+	at java.nio.file.Files.readAllBytes(Files.java:3288) ~[?:?]
+	at RSAFileEncryption.encryptFile(RSAFileEncryption.java:53) ~[classes/:?]
+	at RSAFileEncryption.main(RSAFileEncryption.java:82) [classes/:?]
+2024-11-16 12:29:54 [main] INFO  RSAFileEncryption - Chiavi generate con successo.
+2024-11-16 12:29:54 [main] INFO  RSAFileEncryption - Cifratura del file: fileDaCriptare.txt
+2024-11-16 12:29:54 [main] ERROR RSAFileEncryption - Si è verificato un errore: 
+java.nio.file.NoSuchFileException: fileDaCriptare.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:380) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:432) ~[?:?]
+	at java.nio.file.Files.readAllBytes(Files.java:3288) ~[?:?]
+	at RSAFileEncryption.encryptFile(RSAFileEncryption.java:53) ~[classes/:?]
+	at RSAFileEncryption.main(RSAFileEncryption.java:82) [classes/:?]
+2024-11-16 12:30:23 [main] INFO  RSAFileEncryption - Chiavi generate con successo.
+2024-11-16 12:30:23 [main] INFO  RSAFileEncryption - Cifratura del file: src/main/resources/fileDaCriptare.txt
+2024-11-16 12:30:23 [main] INFO  RSAFileEncryption - Cifratura del messaggio...
+2024-11-16 12:30:23 [main] INFO  RSAFileEncryption - File cifrato salvato in: fileCriptato.txt
+2024-11-16 12:30:23 [main] INFO  RSAFileEncryption - Decifratura del file: fileCriptato.txt
+2024-11-16 12:30:23 [main] INFO  RSAFileEncryption - Decifratura del messaggio...
+2024-11-16 12:30:23 [main] INFO  RSAFileEncryption - File decifrato salvato in: fileDecriptato.txt
+2024-11-16 12:31:11 [main] INFO  RSAFileEncryption - Chiavi generate con successo.
+2024-11-16 12:31:11 [main] INFO  RSAFileEncryption - Cifratura del file: src/main/resources/fileDaCriptare.txt
+2024-11-16 12:31:11 [main] INFO  RSAFileEncryption - Cifratura del messaggio...
+2024-11-16 12:31:11 [main] INFO  RSAFileEncryption - File cifrato salvato in: fileCriptato.txt
+2024-11-16 12:31:11 [main] INFO  RSAFileEncryption - Decifratura del file: fileCriptato.txt
+2024-11-16 12:31:11 [main] INFO  RSAFileEncryption - Decifratura del messaggio...
+2024-11-16 12:31:11 [main] INFO  RSAFileEncryption - File decifrato salvato in: fileDecriptato.txt
+2024-11-16 12:39:55 [main] INFO  RSAFileEncryption - Chiavi generate con successo.
+2024-11-16 12:39:55 [main] INFO  RSAFileEncryption - Cifratura del file: src/main/resources/fileDaCriptare.txt
+2024-11-16 12:39:55 [main] INFO  RSAFileEncryption - Cifratura del messaggio...
+2024-11-16 12:39:55 [main] INFO  RSAFileEncryption - File cifrato salvato in: fileCriptato.txt
+2024-11-16 12:39:55 [main] INFO  RSAFileEncryption - Decifratura del file: fileCriptato.txt
+2024-11-16 12:39:55 [main] INFO  RSAFileEncryption - Decifratura del messaggio...
+2024-11-16 12:39:55 [main] INFO  RSAFileEncryption - File decifrato salvato in: fileDecriptato.txt
+2024-11-16 12:56:56 [main] INFO  RSAFileEncryption - Chiavi generate con successo.
+2024-11-16 12:56:56 [main] INFO  RSAFileEncryption - Cifratura del file: src/main/resources/fileDaCriptare.txt
+2024-11-16 12:56:56 [main] INFO  RSAFileEncryption - Cifratura del messaggio...
+2024-11-16 12:56:56 [main] INFO  RSAFileEncryption - File cifrato salvato in: fileCriptato.txt
+2024-11-16 12:56:56 [main] INFO  RSAFileEncryption - Decifratura del file: fileCriptato.txt
+2024-11-16 12:56:56 [main] INFO  RSAFileEncryption - Decifratura del messaggio...
+2024-11-16 12:56:56 [main] INFO  RSAFileEncryption - File decifrato salvato in: fileDecriptato.txt
